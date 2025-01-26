@@ -44,7 +44,7 @@
 ![Mockito](https://img.shields.io/badge/Mockito-28A745?style=for-the-badge&logo=mockito&logoColor=white)
 
 ### Databases:
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=sqlserver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-4B3621?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
