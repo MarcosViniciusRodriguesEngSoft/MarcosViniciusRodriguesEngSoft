@@ -39,7 +39,7 @@
 
 ### Teste:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&logo=react&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-%23E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit-FF0000?style=for-the-badge&logo=junit5&logoColor=red&color=28A745)
 ![Mockito](https://img.shields.io/badge/Mockito-28A745?style=for-the-badge&logo=mockito&logoColor=white)
 
