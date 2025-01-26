@@ -38,9 +38,9 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Teste:
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit-FF0000?style=for-the-badge&logo=junit5&logoColor=red&color=28A745)
 ![Mockito](https://img.shields.io/badge/Mockito-28A745?style=for-the-badge&logo=mockito&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Databases:
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
