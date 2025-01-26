@@ -5,7 +5,7 @@
 ---
 
 <div style="display: flex; flex-direction: column; justify-content: center; gap: 8; align-items: center;">
-  <div style="display: flex; justify-content: center; gap: 8;">
+  <div>
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusRodriguesEngSoft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniciusRodriguesEngSoft&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
   </div>
