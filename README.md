@@ -5,9 +5,9 @@
 ---
 
 <div style="display: flex; flex-direction: column; justify-content: center; width: 100%; gap: 16px; align-items: center;">
-  <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-    <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusRodriguesEngSoft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniciusRodriguesEngSoft&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+  <div style="display: flex; gap: 16px; justify-content: center;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusRodriguesEngSoft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniciusRodriguesEngSoft&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
   </div>
   <div>
     <img height="320" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" alt="GitHub Streak"/>
