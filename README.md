@@ -97,7 +97,7 @@
 ### 🌐 Contatos
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosviniciusrodrigues-dev)
-  [![Website](https://img.shields.io/badge/Website-%238A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](https://portfolio-dev-marcos.netlify.app)
+  [![Website](https://img.shields.io/badge/Website-%238A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](http://marcos-vinicius-rodrigues.com.br)
   <a href="mailto:marcos.vinicius.engsof@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
