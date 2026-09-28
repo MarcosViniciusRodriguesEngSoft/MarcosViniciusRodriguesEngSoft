@@ -109,19 +109,14 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosviniciusrodrigues-dev)
   [![Website](https://img.shields.io/badge/Website-%238A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](http://marcos-vinicius-rodrigues.com.br)
-  <a href="mailto:marcos.vinicius.engsof@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/5544998204407" title="Whatsapp" rel="nofollow">
-    <img alt="whatsapp" src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" 
-    data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white"/>
-  </a>
+  <a href="mailto:marcos.vinicius.engsof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/5544998204407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 ---
 
 ### 👀 Visitantes do Perfil
 
-![Visitors](https://profile-counter.glitch.me/MarcosViniciusRodriguesEngSoft/count.svg)
+![Visitantes](https://komarev.com/ghpvc/?username=MarcosViniciusRodriguesEngSoft&label=Visitantes&color=58A6FF&style=flat)
 
 ### 👥 Seguidores & Seguindo
 
@@ -130,4 +125,4 @@
 
 ---
 
-![GitHub Contributions Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
