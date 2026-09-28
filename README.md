@@ -125,4 +125,7 @@
 
 ---
 
-![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph.svg" />
+</picture>
