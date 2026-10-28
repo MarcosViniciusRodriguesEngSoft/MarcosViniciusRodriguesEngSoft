@@ -22,18 +22,11 @@ jobs:
 
     steps:
       - name: Gerar SVGs dos jogos
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # main em 2026-10-28
         with:
           github_user_name: ${{ github.repository_owner }}
 
-          # Jogos disponíveis:
-          # pacman
-          # galaga
-          # breakout
-          # puzzle-bobble
-          # bomberman
-          # minesweeper
-          games: "pacman,galaga,breakout,puzzle-bobble,bomberman,minesweeper"
+          games: "pacman"
 
       - name: Publicar arquivos na branch output-games
         uses: crazy-max/ghaction-github-pages@v3.1.0
