@@ -3,11 +3,44 @@
 <h1>Olá, eu sou Marcos Vinicius Rodrigues 👋</h1>
 <h3>Desenvolvedor Full Stack · Java · TypeScript · Cloud</h3>
 
-<a href="https://marcos-vinicius-rodrigues.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Portfólio" /></a> <a href="https://www.linkedin.com/in/marcosviniciusrodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:marcos.vinicius.engsof@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> <a href="https://wa.me/5544998204407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://marcos-vinicius-rodrigues.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Portfólio" /></a> <a href="https://www.linkedin.com/in/marcosviniciusrodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:marcos.vinicius.engsof@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> <a href="https://wa.me/5544998204407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="https://portfolio-dev-marcos-api.fly.dev/storage/files/7e91edc0-20a4-4301-8c60-2c6ee327352a/stream"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-6E40C9?style=for-the-badge&logo=readme&logoColor=white" alt="Baixar currículo em PDF" /></a>
 
-<sub>📧 marcos.vinicius.engsof@gmail.com &nbsp;·&nbsp; 📱 +55 (44) 99820-4407 &nbsp;·&nbsp; 🌐 marcos-vinicius-rodrigues.com.br &nbsp;·&nbsp; 💼 in/marcosviniciusrodrigues-dev</sub>
+<sub>📧 marcos.vinicius.engsof@gmail.com</sub><br/>
+<sub>📱 +55 (44) 99820-4407 &nbsp;·&nbsp; 📍 Sarandi, Paraná</sub>
 
 </div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Engenheiro de Software com mais de 4 anos de experiência, atuando no front-end (React, TypeScript, Next.js) e no back-end (Java, Spring Boot, NestJS). Construo soluções escaláveis e de alta performance, com foco em Clean Code, testes automatizados e observabilidade. Gosto de aprender tecnologias novas, melhorar processos e entregar resultado.
+
+---
+
+## 💼 Experiência
+
+**Desenvolvedor Full Stack · Grupo Irrah** <sub>Maringá, PR · fev 2025 – atual</sub>
+- Microsserviços com Redis Cache e Apache Pulsar, APIs com MongoDB e observabilidade com Grafana.
+- Corrigi um bug crítico em Kubernetes que reiniciava pods em loop, com ganho de cerca de 70% em performance e consistência.
+- Refatorei um sistema legado com Separation of Concerns e Clean Code.
+- Implantei testes com Jest no front-end e o SonarQube para qualidade de código e débito técnico.
+
+**Desenvolvedor Full Stack · Happy** <sub>Maringá, PR · jan 2022 – jan 2025</sub>
+- Aplicações web com React/TypeScript e APIs REST em Java e Spring Boot, com SQL Server e rotinas agendadas.
+- Integrações com WhatsApp, OneSignal, Pagar.me, eNotas, Zapsign, entre outras.
+- Componentes reutilizáveis e bibliotecas internas; Scrum e Kanban; atuação como Product Owner.
+
+**Analista de Desenvolvimento de Sistemas · Happy** <sub>Maringá, PR · nov 2021 – jan 2022</sub>
+- Suporte técnico a mais de 60 unidades, gestão de chamados no GLPI e relatórios customizados em SQL.
+
+---
+
+## 🎓 Formação
+
+- **Bacharelado em Engenharia de Software** · Unicesumar · 2019 – 2023
+- **Pós-graduação em Desenvolvimento de Sistemas com Java** · Unicesumar · 2023 – 2024
+- **Idiomas:** português (nativo) e inglês (técnico)
 
 ---
 
