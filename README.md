@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Olá, eu sou Marcos Vinicius Rodrigues 👋<br/>Engenheiro de Software Full Stack</h3>
+<img src="./assets/banner.svg" width="100%" alt="Marcos Vinicius Rodrigues, Engenheiro de Software Full Stack" />
 
 </div>
 
