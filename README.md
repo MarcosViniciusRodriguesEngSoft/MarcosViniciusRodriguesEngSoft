@@ -15,32 +15,6 @@ Engenheiro de Software com mais de 4 anos de experiência, atuando no front-end 
 
 ---
 
-## 💼 Experiência
-
-**Desenvolvedor Full Stack · Grupo Irrah** <sub>Maringá, PR · fev 2025 – atual</sub>
-- Microsserviços com Redis Cache e Apache Pulsar, APIs com MongoDB e observabilidade com Grafana.
-- Corrigi um bug crítico em Kubernetes que reiniciava pods em loop, com ganho de cerca de 70% em performance e consistência.
-- Refatorei um sistema legado com Separation of Concerns e Clean Code.
-- Implantei testes com Jest no front-end e o SonarQube para qualidade de código e débito técnico.
-
-**Desenvolvedor Full Stack · Happy** <sub>Maringá, PR · jan 2022 – jan 2025</sub>
-- Aplicações web com React/TypeScript e APIs REST em Java e Spring Boot, com SQL Server e rotinas agendadas.
-- Integrações com WhatsApp, OneSignal, Pagar.me, eNotas, Zapsign, entre outras.
-- Componentes reutilizáveis e bibliotecas internas; Scrum e Kanban; atuação como Product Owner.
-
-**Analista de Desenvolvimento de Sistemas · Happy** <sub>Maringá, PR · nov 2021 – jan 2022</sub>
-- Suporte técnico a mais de 60 unidades, gestão de chamados no GLPI e relatórios customizados em SQL.
-
----
-
-## 🎓 Formação
-
-- **Bacharelado em Engenharia de Software** · Unicesumar · 2019 – 2023
-- **Pós-graduação em Desenvolvimento de Sistemas com Java** · Unicesumar · 2023 – 2024
-- **Idiomas:** português (nativo) e inglês (técnico)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
