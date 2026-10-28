@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Software com mais de 4 anos de experiência, atuando no front-end (React, TypeScript, Next.js) e no back-end (Java, Spring Boot, NestJS). Construo soluções escaláveis e de alta performance, com foco em Clean Code, testes automatizados e observabilidade. Gosto de aprender tecnologias novas, melhorar processos e entregar resultado.
+Engenheiro de Software com mais de 5 anos de experiência, atuando no front-end (React, TypeScript, Next.js) e no back-end (Java, Spring Boot, NestJS). Construo soluções escaláveis e de alta performance, com foco em Clean Code, testes automatizados e observabilidade. Gosto de aprender tecnologias novas, melhorar processos e entregar resultado.
 
 ---
 
