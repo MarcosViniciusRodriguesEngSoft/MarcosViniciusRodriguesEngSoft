@@ -30,11 +30,10 @@ Meu portfólio reúne projetos, blog e formas de contato, e tem o currículo par
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" width="60%" alt="GitHub Streak" />
 </p>
 
+## 🏆 Conquistas
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph-dark.svg" />
-    <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/trophy.svg" width="98%" alt="Troféus do GitHub" />
 </p>
 
 ---
@@ -146,3 +145,10 @@ Meu portfólio reúne projetos, blog e formas de contato, e tem o currículo par
 
 ![Followers](https://img.shields.io/github/followers/MarcosViniciusRodriguesEngSoft?style=social)
 ![Stars](https://img.shields.io/github/stars/MarcosViniciusRodriguesEngSoft?style=social)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph.svg" />
+</picture>
