@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&include_all_commits=true&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=495
           path: dist/stats.svg
           token: ${{ env.STATS_TOKEN }}
 
@@ -29,9 +29,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=dark
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=495&theme=dark
           path: dist/top-langs.svg
           token: ${{ env.STATS_TOKEN }}
+
+      - name: Card de troféus
+        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c # master em 2026-10-28
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/trophy.svg
+          token: ${{ env.STATS_TOKEN }}
+          theme: darkhub
 
       - name: Publicar na branch output-stats
         uses: crazy-max/ghaction-github-pages@v3.1.0

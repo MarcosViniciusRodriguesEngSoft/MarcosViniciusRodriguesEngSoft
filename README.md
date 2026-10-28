@@ -17,15 +17,20 @@ Engenheiro de Software com mais de 5 anos de experiência, atuando no front-end 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <div>
-    <img height="200" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/stats.svg" alt="Estatísticas do GitHub"/>
-    <img height="200" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/top-langs.svg" alt="Linguagens mais usadas"/>
-  </div>
-  <div>
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" alt="GitHub Streak"/>
-  </div>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/stats.svg" width="49%" alt="Estatísticas do GitHub" />
+  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/top-langs.svg" width="49%" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" width="60%" alt="GitHub Streak" />
+</p>
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/trophy.svg" width="98%" alt="Troféus do GitHub" />
+</p>
 
 ---
 
