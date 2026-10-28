@@ -25,10 +25,4 @@
   <text x="68" y="158" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff">Marcos Vinicius Rodrigues</text>
   <rect x="70" y="180" width="320" height="3" rx="1.5" fill="url(#line)"/>
   <text x="70" y="222" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="500" fill="#9fb4bd">Engenheiro de Software Full Stack</text>
-
-  <g font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#14e3c8">
-    <rect x="860" y="56" width="270" height="36" rx="18" fill="#14e3c8" fill-opacity="0.1" stroke="#14e3c8" stroke-opacity="0.4"/>
-    <circle cx="884" cy="74" r="5" fill="#22c55e"/>
-    <text x="902" y="80">Aberto a oportunidades</text>
-  </g>
 </svg>
