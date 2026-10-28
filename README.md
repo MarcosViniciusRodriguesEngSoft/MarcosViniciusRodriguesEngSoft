@@ -24,20 +24,6 @@ Meu portfólio reúne projetos, blog e formas de contato, e tem o currículo par
 
 ---
 
-## 📊 Atividade
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" width="60%" alt="GitHub Streak" />
-</p>
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/trophy.svg" width="98%" alt="Troféus do GitHub" />
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <table>
@@ -134,6 +120,20 @@ Meu portfólio reúne projetos, blog e formas de contato, e tem o currículo par
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 Atividade
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" width="60%" alt="GitHub Streak" />
+</p>
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/trophy.svg" width="98%" alt="Troféus do GitHub" />
+</p>
 
 ---
 
