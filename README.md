@@ -78,6 +78,23 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
 
 ---
 
+## Projetos públicos
+
+<table>
+  <tr>
+    <td width="50%"><b><a href="https://github.com/MarcosViniciusRodriguesEngSoft/sistema-forum-graphql-api">sistema-forum-graphql-api</a></b><br/>API de fórum com GraphQL.<br/><sub>Java</sub></td>
+    <td width="50%"><b><a href="https://github.com/MarcosViniciusRodriguesEngSoft/udemy-gerenciador-financeiro-api">udemy-gerenciador-financeiro-api</a></b><br/>API de gerenciamento financeiro.<br/><sub>Java</sub></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/MarcosViniciusRodriguesEngSoft/GestaoPessoa">GestaoPessoa</a></b><br/>Cadastro de pessoas e contatos.<br/><sub>TypeScript</sub></td>
+    <td><b><a href="https://github.com/MarcosViniciusRodriguesEngSoft/dashboard-glpi">dashboard-glpi</a></b><br/>Dashboard para o GLPI.<br/><sub>TypeScript</sub></td>
+  </tr>
+</table>
+
+<sub>Grande parte do meu trabalho está em repositórios privados. Mais projetos e detalhes no <a href="https://marcos-vinicius-rodrigues.com.br">portfólio</a>.</sub>
+
+---
+
 ## Atividade
 
 <div align="center">
@@ -86,8 +103,6 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" />
   <img alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com?user=MarcosViniciusRodriguesEngSoft&theme=default" />
 </picture>
-
-<img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-3d/profile-night-green.svg" alt="Gráfico 3D de contribuições" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph-dark.svg" />
