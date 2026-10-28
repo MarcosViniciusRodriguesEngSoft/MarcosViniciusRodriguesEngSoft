@@ -31,9 +31,4 @@
     <circle cx="884" cy="74" r="5" fill="#22c55e"/>
     <text x="902" y="80">Aberto a oportunidades</text>
   </g>
-  <g font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#6b8791">
-    <text x="860" y="188">Java · Spring Boot · NestJS</text>
-    <text x="860" y="216">React · Next.js · TypeScript</text>
-    <text x="860" y="244">Docker · Kubernetes · Azure</text>
-  </g>
 </svg>
