@@ -5,9 +5,6 @@
 
 <a href="https://marcos-vinicius-rodrigues.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Portfólio" /></a> <a href="https://www.linkedin.com/in/marcosviniciusrodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:marcos.vinicius.engsof@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> <a href="https://wa.me/5544998204407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> <a href="https://portfolio-dev-marcos-api.fly.dev/storage/files/7e91edc0-20a4-4301-8c60-2c6ee327352a/stream"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-6E40C9?style=for-the-badge&logo=readme&logoColor=white" alt="Baixar currículo em PDF" /></a>
 
-<sub>📧 marcos.vinicius.engsof@gmail.com</sub><br/>
-<sub>📱 +55 (44) 99820-4407 &nbsp;·&nbsp; 📍 Sarandi, Paraná</sub>
-
 </div>
 
 ---
