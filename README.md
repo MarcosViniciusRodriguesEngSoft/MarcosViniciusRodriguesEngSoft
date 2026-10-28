@@ -24,21 +24,17 @@ Meu portfólio reúne projetos, blog e formas de contato, e tem o currículo par
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img align="top" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/stats.svg" width="49%" alt="Estatísticas do GitHub" />
-  <img align="top" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/top-langs.svg" width="49%" alt="Linguagens mais usadas" />
-</p>
+## 📊 Atividade
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" width="60%" alt="GitHub Streak" />
 </p>
 
-## 🏆 Conquistas
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/trophy.svg" width="98%" alt="Troféus do GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph.svg" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -150,10 +146,3 @@ Meu portfólio reúne projetos, blog e formas de contato, e tem o currículo par
 
 ![Followers](https://img.shields.io/github/followers/MarcosViniciusRodriguesEngSoft?style=social)
 ![Stars](https://img.shields.io/github/stars/MarcosViniciusRodriguesEngSoft?style=social)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph-dark.svg" />
-  <img alt="Pac-Man" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-games/pacman-contribution-graph.svg" />
-</picture>
