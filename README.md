@@ -1,8 +1,17 @@
-# Olá, eu sou Marcos Vinicius Rodrigues - Desenvolvedor Full Stack! 🚀
+<div align="center">
 
-### 📊 GitHub Stats:
+<h1>Olá, eu sou Marcos Vinicius Rodrigues 👋</h1>
+<h3>Desenvolvedor Full Stack · Java · TypeScript · Cloud</h3>
+
+<a href="https://marcos-vinicius-rodrigues.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Portfólio" /></a> <a href="https://www.linkedin.com/in/marcosviniciusrodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:marcos.vinicius.engsof@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> <a href="https://wa.me/5544998204407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+<sub>📧 marcos.vinicius.engsof@gmail.com &nbsp;·&nbsp; 📱 +55 (44) 99820-4407 &nbsp;·&nbsp; 🌐 marcos-vinicius-rodrigues.com.br &nbsp;·&nbsp; 💼 in/marcosviniciusrodrigues-dev</sub>
+
+</div>
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <div>
@@ -10,7 +19,7 @@
     <img height="200" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/top-langs.svg" alt="Linguagens mais usadas"/>
   </div>
   <div>
-    <img height="315" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" alt="GitHub Streak"/>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" alt="GitHub Streak"/>
   </div>
 </div>
 
@@ -36,6 +45,7 @@
       <img src="./assets/icons/java.svg" width="48" height="48" alt="Java" />
       <img src="./assets/icons/spring-boot.svg" width="48" height="48" alt="Spring Boot" />
       <img src="./assets/icons/nestjs.svg" width="48" height="48" alt="NestJS" />
+      <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" />
     </td>
   </tr>
   <tr>
@@ -103,19 +113,14 @@
   <tr>
     <td><b>Ferramentas</b></td>
     <td>
-      <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+      <img src="./assets/icons/intelliJ-idea.svg" width="48" height="48" alt="IntelliJ IDEA" />
+      <img src="./assets/icons/vs-code.svg" width="48" height="48" alt="VS Code" />
+      <img src="./assets/icons/dbeaver.svg" width="48" height="48" alt="DBeaver" />
+      <img src="./assets/icons/postman.svg" width="48" height="48" alt="Postman" />
+      <img src="./assets/icons/insomnia.svg" width="48" height="48" alt="Insomnia" />
     </td>
   </tr>
 </table>
-
----
-
-### 🌐 Contatos
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosviniciusrodrigues-dev)
-  [![Website](https://img.shields.io/badge/Website-%238A2BE2?style=for-the-badge&logo=next.js&logoColor=white)](http://marcos-vinicius-rodrigues.com.br)
-  <a href="mailto:marcos.vinicius.engsof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/5544998204407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 ---
 
