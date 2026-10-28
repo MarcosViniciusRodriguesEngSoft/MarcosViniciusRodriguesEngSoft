@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=495&theme=dark
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&card_width=495&theme=dark
           path: dist/top-langs.svg
           token: ${{ env.STATS_TOKEN }}
 

@@ -18,8 +18,8 @@ Engenheiro de Software com mais de 5 anos de experiência, atuando no front-end 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/stats.svg" width="49%" alt="Estatísticas do GitHub" />
-  <img src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/top-langs.svg" width="49%" alt="Linguagens mais usadas" />
+  <img align="top" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/stats.svg" width="49%" alt="Estatísticas do GitHub" />
+  <img align="top" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/top-langs.svg" width="49%" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
