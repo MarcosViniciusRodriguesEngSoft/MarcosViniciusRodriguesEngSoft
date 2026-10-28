@@ -40,7 +40,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
 <table>
   <tr>
     <td width="160"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind" alt="HTML, CSS, TypeScript, React, Next.js, Tailwind CSS" /></td>
+    <td><img src="./assets/icons/html5.svg" width="48" height="48" alt="HTML5" /> <img src="./assets/icons/css3.svg" width="48" height="48" alt="CSS3" /> <img src="./assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" /> <img src="./assets/icons/react.svg" width="48" height="48" alt="React" /> <img src="./assets/icons/nextjs.svg" width="48" height="48" alt="Next.js" /> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
