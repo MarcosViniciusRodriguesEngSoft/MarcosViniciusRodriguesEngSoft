@@ -48,7 +48,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Bancos de dados</b></td>
-    <td><img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /> <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /> <img src="./assets/icons/sqlserver.svg" width="48" height="48" alt="SQL Server" /></td>
+    <td><img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /> <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /> <img src="./assets/icons/sqlserver.svg" width="48" height="48" alt="SQL Server" /> <img src="./assets/icons/redis.svg" width="48" height="48" alt="Redis" /></td>
   </tr>
   <tr>
     <td><b>Mensageria</b></td>
@@ -56,7 +56,11 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,vercel,netlify" alt="Azure, Docker, Kubernetes, Vercel, Netlify" /> <img src="./assets/icons/azuredevops.svg" width="48" height="48" alt="Azure DevOps" /></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,docker" alt="Azure, Docker" /> <img src="./assets/icons/kubernetes.svg" width="48" height="48" alt="Kubernetes" /> <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel, Netlify" /> <img src="./assets/icons/azuredevops.svg" width="48" height="48" alt="Azure DevOps" /></td>
+  </tr>
+  <tr>
+    <td><b>Observabilidade</b></td>
+    <td><img src="./assets/icons/grafana.svg" width="48" height="48" alt="Grafana" /> <img src="./assets/icons/open-telemetry.svg" width="48" height="48" alt="OpenTelemetry" /> <img src="./assets/icons/signoz.svg" width="48" height="48" alt="SigNoz" /></td>
   </tr>
   <tr>
     <td><b>Testes</b></td>
