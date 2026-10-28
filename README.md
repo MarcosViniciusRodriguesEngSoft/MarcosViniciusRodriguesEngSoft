@@ -72,7 +72,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>IA</b></td>
-    <td><img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude" /> <img src="./assets/icons/openai.svg" width="48" height="48" alt="OpenAI" /> <sub>LLMs e agentes</sub></td>
+    <td><img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude" /> <img src="./assets/icons/gpt.svg" width="48" height="48" alt="OpenAI" /> <sub>LLMs e agentes</sub></td>
   </tr>
 </table>
 
