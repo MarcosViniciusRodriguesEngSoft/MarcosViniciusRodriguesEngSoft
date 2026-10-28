@@ -6,19 +6,13 @@
 
 <div align="center">
   <div>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusRodriguesEngSoft&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniciusRodriguesEngSoft&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
+    <img height="200" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/stats.svg" alt="Estatísticas do GitHub"/>
+    <img height="200" src="https://raw.githubusercontent.com/MarcosViniciusRodriguesEngSoft/MarcosViniciusRodriguesEngSoft/output-stats/top-langs.svg" alt="Linguagens mais usadas"/>
   </div>
   <div>
     <img height="315" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosViniciusRodriguesEngSoft&theme=dark" alt="GitHub Streak"/>
   </div>
 </div>
-
----
-
-### 🏆 Conquistas do GitHub
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MarcosViniciusRodriguesEngSoft&theme=dark)
 
 ---
 
