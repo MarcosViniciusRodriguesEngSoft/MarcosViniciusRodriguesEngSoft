@@ -39,7 +39,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Bancos de dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" /> <sub>+ SQL Server</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" /> <img src="./assets/icons/sqlserver.svg" width="48" height="48" alt="SQL Server" /></td>
   </tr>
   <tr>
     <td><b>Mensageria</b></td>
@@ -47,11 +47,11 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,vercel,netlify" alt="Azure, Docker, Kubernetes, Vercel, Netlify" /> <sub>+ Azure DevOps</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,vercel,netlify" alt="Azure, Docker, Kubernetes, Vercel, Netlify" /> <img src="./assets/icons/azuredevops.svg" width="48" height="48" alt="Azure DevOps" /></td>
   </tr>
   <tr>
     <td><b>Testes</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /> <sub>+ JUnit 5, Mockito, Testing Library</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /> <img src="./assets/icons/junit5.svg" width="48" height="48" alt="JUnit 5" /> <img src="./assets/icons/mockito.svg" width="48" height="48" alt="Mockito" /> <img src="./assets/icons/testing-library.svg" width="48" height="48" alt="Testing Library" /></td>
   </tr>
   <tr>
     <td><b>Versionamento</b></td>
@@ -59,7 +59,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>IA</b></td>
-    <td><sub>Claude · OpenAI · LLMs e agentes</sub></td>
+    <td><img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude" /> <img src="./assets/icons/openai.svg" width="48" height="48" alt="OpenAI" /> <sub>LLMs e agentes</sub></td>
   </tr>
 </table>
 
