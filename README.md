@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>Olá, eu sou Marcos Vinicius Rodrigues 👋</h1>
-<h3>Engenheiro de Software Full Stack</h3>
+<h3>Olá, eu sou Marcos Vinicius Rodrigues 👋<br/>Engenheiro de Software Full Stack</h3>
 
 </div>
 
