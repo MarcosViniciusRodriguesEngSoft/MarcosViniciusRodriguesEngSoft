@@ -17,13 +17,23 @@
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 <a href="https://wa.me/5544998204407">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"\>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
- </div>
+</div>
+
+<p align="center">
+  <a href="#sobre-mim">Sobre</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#projetos-públicos">Projetos</a> ·
+  <a href="#atividade">Atividade</a> ·
+  <a href="#contato">Contato</a>
+</p>
 
 ---
 
-Sobre mim
+## Sobre mim
+
+**Engenheiro de Software Full Stack** que constrói APIs em Java/Spring Boot e NestJS e interfaces em React/Next.js, com foco em Clean Architecture, testes e entrega em nuvem.
 
 Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJS**, **interfaces em React/Next.js com TypeScript** e entrega em **Docker, Kubernetes e Azure**. Também uso **IA generativa** (Claude, OpenAI e agentes) no dia a dia de desenvolvimento.
 
@@ -112,6 +122,12 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
 </div>
 
 ---
+
+## Contato
+
+- 🌐 Portfólio: [marcos-vinicius-rodrigues.com.br](https://marcos-vinicius-rodrigues.com.br)
+- 💼 LinkedIn: [marcosviniciusrodrigues-dev](https://www.linkedin.com/in/marcosviniciusrodrigues-dev)
+- ✉️ E-mail: [marcos.vinicius.engsof@gmail.com](mailto:marcos.vinicius.engsof@gmail.com)
 
 <div align="center">
 
