@@ -15,6 +15,18 @@ Engenheiro de Software com mais de 5 anos de experiência, atuando no front-end 
 
 ---
 
+## 🚀 Portfólio
+
+<p align="center">
+  <a href="https://marcos-vinicius-rodrigues.com.br"><img src="./assets/portfolio.png" width="100%" alt="Capa do portfólio de Marcos Vinicius Rodrigues" /></a>
+</p>
+
+Meu portfólio reúne projetos, blog e formas de contato, e tem o currículo para baixar.
+
+👉 **[marcos-vinicius-rodrigues.com.br](https://marcos-vinicius-rodrigues.com.br)**
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
