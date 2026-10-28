@@ -56,7 +56,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=azure,docker" alt="Azure, Docker" /> <img src="./assets/icons/kubernetes.svg" width="48" height="48" alt="Kubernetes" /> <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel, Netlify" /> <img src="./assets/icons/azuredevops.svg" width="48" height="48" alt="Azure DevOps" /></td>
+    <td><img src="./assets/icons/azure.svg" width="48" height="48" alt="Azure" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <img src="./assets/icons/kubernetes.svg" width="48" height="48" alt="Kubernetes" /> <img src="./assets/icons/vercel.svg" width="48" height="48" alt="Vercel" /> <img src="./assets/icons/netlify.svg" width="48" height="48" alt="Netlify" /> <img src="./assets/icons/fly-io.svg" width="48" height="48" alt="Fly.io" /></td>
   </tr>
   <tr>
     <td><b>Observabilidade</b></td>
@@ -68,7 +68,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Versionamento</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Git, GitHub, GitLab, Bitbucket" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /> <img src="./assets/icons/bitbucket.svg" width="48" height="48" alt="Bitbucket" /> <img src="./assets/icons/azure-devops.svg" width="48" height="48" alt="Azure DevOps" /></td>
   </tr>
   <tr>
     <td><b>IA</b></td>
