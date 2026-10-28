@@ -52,7 +52,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Mensageria</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" /></td>
+    <td><img src="./assets/icons/kafka.svg" width="48" height="48" alt="Apache Kafka" /></td>
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
@@ -72,7 +72,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>IA</b></td>
-    <td><img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude" /> <img src="./assets/icons/gpt.svg" width="48" height="48" alt="OpenAI" /> <img src="./assets/icons/llm.svg" width="48" height="48" alt="LLMs e agentes" /></td>
+    <td><img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude" /> <img src="./assets/icons/gpt.svg" width="48" height="48" alt="OpenAI" /> <img src="./assets/icons/llm.svg" width="48" height="48" alt="LLMs" /> <img src="./assets/icons/ai-agent.svg" width="48" height="48" alt="Agentes de IA" /></td>
   </tr>
 </table>
 
