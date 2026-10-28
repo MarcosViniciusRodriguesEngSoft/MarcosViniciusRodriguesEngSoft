@@ -6,16 +6,24 @@
 
 <br/>
 
-<a href="https://marcos-vinicius-rodrigues.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Portfólio" /></a>
-<a href="https://www.linkedin.com/in/marcosviniciusrodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:marcos.vinicius.engsof@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<a href="https://wa.me/5544998204407"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-
-</div>
+<div>
+<a href="https://marcos-vinicius-rodrigues.com.br">
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-58A6FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D" alt="Portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/marcosviniciusrodrigues-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:marcos.vinicius.engsof@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+<a href="https://wa.me/5544998204407">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"\>
+</a>
+ </div>
 
 ---
 
-## Sobre mim
+Sobre mim
 
 Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJS**, **interfaces em React/Next.js com TypeScript** e entrega em **Docker, Kubernetes e Azure**. Também uso **IA generativa** (Claude, OpenAI e agentes) no dia a dia de desenvolvimento.
 
@@ -36,11 +44,11 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nestjs" alt="Java, Spring Boot, NestJS" /></td>
+    <td><img src="./assets/icons/java.svg" width="48" height="48" alt="Java" /> <img src="./assets/icons/spring-boot.svg" width="48" height="48" alt="Spring Boot" /> <img src="./assets/icons/nestjs.svg" width="48" height="48" alt="NestJS" /></td>
   </tr>
   <tr>
     <td><b>Bancos de dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" /> <img src="./assets/icons/sqlserver.svg" width="48" height="48" alt="SQL Server" /></td>
+    <td><img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /> <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /> <img src="./assets/icons/sqlserver.svg" width="48" height="48" alt="SQL Server" /></td>
   </tr>
   <tr>
     <td><b>Mensageria</b></td>
@@ -52,7 +60,7 @@ Desenvolvo aplicações web de ponta a ponta: **APIs em Java/Spring Boot e NestJ
   </tr>
   <tr>
     <td><b>Testes</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /> <img src="./assets/icons/junit5.svg" width="48" height="48" alt="JUnit 5" /> <img src="./assets/icons/mockito.svg" width="48" height="48" alt="Mockito" /> <img src="./assets/icons/testing-library.svg" width="48" height="48" alt="Testing Library" /></td>
+    <td><img src="./assets/icons/jest.svg" width="48" height="48" alt="Jest" /> <img src="./assets/icons/junit5.svg" width="48" height="48" alt="JUnit 5" /> <img src="./assets/icons/mockito.svg" width="48" height="48" alt="Mockito" /> <img src="./assets/icons/testing-library.svg" width="48" height="48" alt="Testing Library" /></td>
   </tr>
   <tr>
     <td><b>Versionamento</b></td>
